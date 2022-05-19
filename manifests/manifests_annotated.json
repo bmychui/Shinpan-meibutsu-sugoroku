@@ -49,7 +49,7 @@
       "related" : "",
       "otherContent" : [ {
         "@type" : "sc:AnnotationList",
-        "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/annotations/sugoroku_full",
+        "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/annotations/sugoroku_full.json",
         "label" : "Annotations for canvas Sugoroku (Full)"
       } ]
     }, {
