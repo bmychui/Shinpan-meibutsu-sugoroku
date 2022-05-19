@@ -1,0 +1,13 @@
+{
+  "id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in bmychui/Shinpan-meibutsu-sugoroku project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
