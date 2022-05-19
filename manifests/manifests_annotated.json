@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifests_annotated.json",
   "@type" : "sc:Manifest",
-  "label" : "",
+  "label" : "Shinpan Meibutsu Sugoroku DEMO",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Shinpan Meibutsu Sugoroku DEMO for IIIF Workshop (May 16-20, 2022) by Bianca Chui (@bmychui)",
