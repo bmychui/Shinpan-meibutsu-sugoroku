@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "1F Ebiya",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1F Ebiya</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/13310037",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T19:48:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652989726318",
+    "dcterms:modified" : "2022-05-19T19:48:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2989,1015,502,374"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2988.97215,1015.39769h251.14282v0h251.14282v186.89381v186.89381h-251.14282h-251.14282v-186.89381z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ec1b4980-616d-4f87-9973-584316065e27\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://eb699180-4690-43a3-b950-e46394b9f374"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Starting Square (Furidashi): Nihonbashi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Starting Square (Furidashi): Nihonbashi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/13310037",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T19:47:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652989676980",
+    "dcterms:modified" : "2022-05-19T19:47:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1538,4478,932,724"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1538.26504,4478.28135h466.01214v0h466.01214v361.90495v361.90495h-466.01214h-466.01214v-361.90495z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dfc15aeb-ef09-4920-91e4-d34c863023e3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://eb699180-4690-43a3-b950-e46394b9f374"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ending Square (Agari): Sanno Festival",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ending Square (Agari): Sanno Festival</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/13310037",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T19:49:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652989751757",
+    "dcterms:modified" : "2022-05-19T19:49:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1585,990,940,752"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1585.12301,989.97021h469.76079v0h469.76079v376.00864v376.00864h-469.76079h-469.76079v-376.00864z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_72b5914a-1338-4301-ad4c-48cabcd44bac\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://eb699180-4690-43a3-b950-e46394b9f374"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "9D Mikaeri",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>9D Mikaeri</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/13310037",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T19:48:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652989703527",
+    "dcterms:modified" : "2022-05-19T19:48:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2011,3796,485,372"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2011.13059,3795.98754h242.57629v0h242.57629v186.03716v186.03716h-242.57629h-242.57629v-186.03716z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e1eb9671-9935-4208-9b29-35517de084b5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://eb699180-4690-43a3-b950-e46394b9f374"
+    } ]
+  } ],
+  "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/annotations/sugoroku_full.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
