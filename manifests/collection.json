@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifest.json",
     "label" : ""
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/manifests/manifests_annotated.json",
+    "label" : ""
   } ]
 }
