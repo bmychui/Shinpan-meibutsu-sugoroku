@@ -1,0 +1,66 @@
+{
+  "id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in bmychui/Shinpan-meibutsu-sugoroku project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 800,
+    "id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/images/agari_sanno_festival/canvas/",
+    "label" : {
+      "none" : [ "agari_sanno_festival" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/images/agari_sanno_festival/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/images/agari_sanno_festival/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 20
+            }, {
+              "width" : 50,
+              "height" : 40
+            }, {
+              "width" : 100,
+              "height" : 79
+            }, {
+              "width" : 200,
+              "height" : 158
+            }, {
+              "width" : 400,
+              "height" : 316
+            }, {
+              "width" : 800,
+              "height" : 631
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 800,
+            "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/images/agari_sanno_festival",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 631
+          } ],
+          "format" : "image/jpeg",
+          "width" : 800,
+          "id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/images/agari_sanno_festival/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 631
+        },
+        "target" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/images/agari_sanno_festival/canvas/"
+      } ]
+    } ],
+    "height" : 631
+  } ]
+}
