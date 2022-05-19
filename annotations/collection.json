@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/annotations/sugoroku_full" ],
+  "otherContent" : [ "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/annotations/sugoroku_full.json" ],
   "@id" : "https://bmychui.github.io/Shinpan-meibutsu-sugoroku/annotations/collection.json",
   "label" : "All annotations loaded in bmychui/Shinpan-meibutsu-sugoroku project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
